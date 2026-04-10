@@ -8,6 +8,9 @@ This project explores how patient demographics, lifestyle habits, medical histor
 > 📚 *This project was completed as a guided learning project under the mentorship of **Emmanuel Isaac** via YouTube. Full credit and appreciation for the guidance provided.*
 
 ---
+![](https://github.com/Lucky-ogolo/Ulcer-Health-Risk-Analysis/blob/2550b6541740376eedce8ce55f9a206a679a9be2/Screenshot%202026-02-06%20060510.png)
+
+![](https://github.com/Lucky-ogolo/Ulcer-Health-Risk-Analysis/blob/2550b6541740376eedce8ce55f9a206a679a9be2/Screenshot%202026-02-06%20060605.png)
 
 ## 🎯 Objectives
 - Analyze patient-level ulcer risk factors and outcomes  
@@ -126,11 +129,6 @@ This project was guided by **Emmanuel Isaac** through a YouTube tutorial series.
 The guidance provided was instrumental in understanding Power BI features such as **chiclet slicers, KPI comparisons, and interactive visuals**.
 
 ---
-## 📸Dashboard Preview
-
-![](https://github.com/Lucky-ogolo/Ulcer-Health-Risk-Analysis/blob/2550b6541740376eedce8ce55f9a206a679a9be2/Screenshot%202026-02-06%20060510.png)
-
-![](https://github.com/Lucky-ogolo/Ulcer-Health-Risk-Analysis/blob/2550b6541740376eedce8ce55f9a206a679a9be2/Screenshot%202026-02-06%20060605.png)
 ## 📎 Notes
 This project is part of my **learning and portfolio development journey**.  
 While guided, all implementation, exploration, and documentation were completed independently to reinforce practical understanding.
